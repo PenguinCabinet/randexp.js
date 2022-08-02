@@ -1,5 +1,7 @@
 # randexp.js
 
+It is forked by [fent/randexp.js](https://github.com/fent/randexp.js).      
+
 randexp will generate a random string that matches a given RegExp Javascript object.
 
 [![Dependency Status](https://david-dm.org/fent/randexp.js.svg)](https://david-dm.org/fent/randexp.js)
