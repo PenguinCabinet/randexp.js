@@ -112,6 +112,9 @@ function example(regexp, i) {
 
   // Populate fields.
   field.addClass('field');
+
+  field.css("width","80vw");
+
   field.val(
     (regexp.source || regexp.regexp.source)
     .replace(/\\\//g, function() { return '/'; })
